@@ -2,7 +2,10 @@
 
 This is a simplified version of the [Official VLC Tkinter Example](https://github.com/oaubert/python-vlc/blob/master/examples/tkvlc.py) made to fit my personal needs.
 
-* _Works on Windows Only_
+* _Works on Windows [Tested on Windows 10 64-Bit]_
+* _Works on Linux (Xorg) [Tested on Arch Linux 64-Bit With DWM]_
+* _Probably Won't Work on macOS [Not Tested]
+
 
 ## Usage
 ### Example
