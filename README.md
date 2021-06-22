@@ -4,13 +4,14 @@ This is a simplified version of the [Official VLC Tkinter Example](https://githu
 
 * _Works on Windows [Tested on Windows 10 64-Bit]_
 * _Works on Linux (Xorg) [Tested on Arch Linux 64-Bit With DWM]_
-* _Probably Won't Work on macOS [Not Tested]
+* _Probably Won't Work on macOS [Not Tested]_
 
 
 ## Installation
 ```bash
 pip install tkvlc
 ```
+
 
 ## Usage
 ### Example
