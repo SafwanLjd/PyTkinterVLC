@@ -1,3 +1,5 @@
+#!/usr/env/bin python3
+
 from setuptools import setup
 
 description = 'A minimal python-vlc helper library'
