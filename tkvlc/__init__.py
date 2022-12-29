@@ -1,5 +1,3 @@
-#!/usr/env/bin python3
-
 from datetime import timedelta
 from sys import platform
 from tkinter import ttk
