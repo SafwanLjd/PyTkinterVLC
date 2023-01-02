@@ -2,8 +2,8 @@
 
 from setuptools import setup
 
-description = 'A minimal python-vlc helper library'
-__version__ = '1.0'
+description = 'A Minimal python-vlc Tkinter Helper Library'
+__version__ = '1.0.0'
 
 try:
 	long_description = open('README.md', 'r').read()
@@ -20,7 +20,7 @@ setup(
 	long_description=long_description,
 	long_description_content_type='text/markdown',
 	url='https://gitlab.com/SafwanLjd/PyTkinterVLC',
-	download_url='https://gitlab.com/SafwanLjd/PyTkinterVLC/-/archive/v' + __version__ + '/PyTkinterVLC-v' + __version__ + '.tar.gz',
+	download_url='https://gitlab.com/SafwanLjd/PyTkinterVLC/-/archive/' + __version__ + '/PyTkinterVLC-' + __version__ + '.tar.gz',
 	install_requires=['python-vlc'],
 	classifiers=[
 		'Development Status :: 5 - Production/Stable',
