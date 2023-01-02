@@ -19,8 +19,8 @@ setup(
 	description=description,
 	long_description=long_description,
 	long_description_content_type='text/markdown',
-	url='https://github.com/SafwanLjd/PyTkinterVLC',
-	download_url='https://github.com/SafwanLjd/PyTkinterVLC/archive/refs/tags/v' + __version__ + '.tar.gz',
+	url='https://gitlab.com/SafwanLjd/PyTkinterVLC',
+	download_url='https://gitlab.com/SafwanLjd/PyTkinterVLC/-/archive/v' + __version__ + '/PyTkinterVLC-v' + __version__ + '.tar.gz',
 	install_requires=['python-vlc'],
 	classifiers=[
 		'Development Status :: 5 - Production/Stable',
